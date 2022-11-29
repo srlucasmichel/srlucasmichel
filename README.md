@@ -13,7 +13,7 @@
 ### Welcome to my GitHub profile :wave:
 
 - :man_student: I have a bachelor's degree in Information Systems from [FIAP](https://www.fiap.com.br/);
-- :briefcase: Since 2015 in the technology area. 4 years working with development;
+- :briefcase: Since 2015 in the technology area. Four years working with development;
 - :books: My main skills are in development with Flutter, Java and Kotlin. Also with interface design and user experience;
 - :rocket: Currently improving myself in ```Clean Architecture```, ```Clean Code```, ```MobX```, ```BLoC```, ```GetX```;
 - :purple_heart: I'm wanting to collaborate, preferably, with mobile projects;
