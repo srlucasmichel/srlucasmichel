@@ -16,8 +16,9 @@
 - :briefcase: Since 2015 in the technology area. Four years working with development;
 - :books: My main skills are in development with Flutter, Java and Kotlin. Also with interface design and user experience;
 - :rocket: Currently improving myself in ```Clean Architecture```, ```Clean Code```, ```MobX```, ```BLoC``` and ```GetX```;
+- :fire: Intends to learn ```CI/CD```, ```More design patterns```, ```Database NoSQL```, ```GraphQL``` and ```Swift```;
 - :purple_heart: I want to collaborate, preferably, with mobile projects;
-- 💬 Ask me about anything related to mobile development or prototyping mobile interfaces.
+- :speech_balloon: Ask me about anything related to mobile development or prototyping mobile interfaces.
 
 ### Skills and tools
 <p width="100%">
