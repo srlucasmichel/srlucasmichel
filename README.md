@@ -6,9 +6,6 @@
 <a href="https://www.behance.net/srlucasmichel/" target="_blank">
   <img src="https://img.shields.io/badge/-srlucasmichel-blue?style=flat&logo=behance&logoColor=white" height="25px" />
 </a>
-<a href="mailto:lucasmichel_tcx@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/lucasmichel_tcx@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" height="25px" />
-</a>
 
 ### Welcome to my GitHub profile :wave:
 
